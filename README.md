@@ -32,7 +32,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=carrizomiguel&layout=compact&langs_count=7&theme=dark&exclude_repo=netflix_web_github_page&hide=html"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=KevinPeinado33&layout=compact&langs_count=7&theme=dark&exclude_repo=netflix_web_github_page&hide=html"/>
 </p>
 
 ## 💳 Github Profile Summary Card
