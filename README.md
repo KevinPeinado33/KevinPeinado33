@@ -1,4 +1,9 @@
 ### Hi there 👋
+## I am a software developer
+
+🔭 I’m currently working on my research project
+🌱 I’m currently learning Flutter & I.A
+👯 I’m looking to collaborate on flutter or I.A projects
 
 <!--
 **KevinPeinado33/KevinPeinado33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
