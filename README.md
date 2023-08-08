@@ -37,7 +37,7 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KevinPeinado33&show_icons=true&theme=dark" />
+	<img width="48%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=KevinPeinado33&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinPeinado33&theme=dark" />
 </p>
 
