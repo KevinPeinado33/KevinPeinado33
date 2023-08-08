@@ -30,6 +30,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=carrizomiguel&layout=compact&langs_count=7&theme=dark&exclude_repo=netflix_web_github_page&hide=html"/>
+</p>
+
 ## 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinPeinado33&theme=dark"/>
