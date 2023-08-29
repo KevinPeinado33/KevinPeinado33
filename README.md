@@ -13,8 +13,8 @@
 ## I'm a software developer
 
 - 🔭 I’m currently working on my research project
-- 🌱 I’m currently learning Flutter & I.A
-- 👯 I’m looking to collaborate on flutter or I.A projects
+- 🌱 I’m currently learning React Native & I.A
+- 👯 I’m looking to collaborate on React Native or I.A projects
 
 ### 💻 Technologies I love the most
 
