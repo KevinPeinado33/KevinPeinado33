@@ -21,6 +21,7 @@
 <p align="center">
 	<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
 	<code><img height="30" src="https://imgs.search.brave.com/sXYprDxK8_0Up5vaW62rpLfRGZ5J1rxgZsxrNEMqUes/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzRjL1R5cGVzY3Jp/cHRfbG9nb18yMDIw/LnN2Zw.svg"></code>
+	<code><img height="30" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png"></code>
 	<code><img height="30" src="https://imgs.search.brave.com/sRCVWlztb1N0v7DEXTw9zFCqZkqBsMPPLBzeRCEAC08/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9yZWR1eC5zdmc.svg"></code>
 	<code><img height="30" src="https://imgs.search.brave.com/I_nW-x21BB6_TTk_xXuYVy5pZlaMfv0h4q35oqhrxvc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL04vbmV4dC1q/cy1pY29uLWxvZ28t/RUUzMDJENURCRC1z/ZWVrbG9nby5jb20u/cG5n"></code>
 	<code><img height="30" src="https://imgs.search.brave.com/B9x6ESy4wAmMKt5LszxyB8AUiR41Y0uPSiXOLRsZeUI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2E4L05lc3RKUy5z/dmc.svg"></code>
